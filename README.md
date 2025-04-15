@@ -4,10 +4,10 @@
 
 Aquí tienes los plugins disponibles y sus guías de uso:
 
-- [Protection Stones](./docs/GUIDE/ProtectionStones.md) - Protecciones de terreno Muy Funcionales
-- [Player Cosmetics](./docs/GUIDE/PlayerCosmetics.md) - Descripción breve del plugin.
-- [Auto Register](./docs/GUIDE/AutoRegister.md) - Descripción breve del plugin.
-- [Plugin 4](./docs/plugin4.md) - Descripción breve del plugin.
+- [Protection Stones](./GUIDE/ProtectionStones.md) - Protecciones de terreno Muy Funcionales
+- [Player Cosmetics](./GUIDE/PlayerCosmetics.md) - Descripción breve del plugin.
+- [Auto Register](./GUIDE/AutoRegister.md) - Descripción breve del plugin.
+- [EasyAutoBackup](./GUIDE/EasyAutoBackup.md) - Descripción breve del plugin.
 
 ## Instalación
 
