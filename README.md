@@ -18,8 +18,7 @@ Aquí tienes los plugins disponibles y sus guías de uso:
 
 ## Licencia
 
-Este proyecto está protegido por la [Licencia de Uso](./LICENSE.md). El acceso y uso de los plugins está restringido a usuarios con una clave válida. contacta con FrankV22 para recibir una Clave de uso
-Sientete libre de ignorar este repositorio, ningun codigo aqui es publico, pero garantizamos seguridad, Al usar cualquier herramienta estas aceptando la Politica!
+Este proyecto está protegido por la [Licencia de Uso](./LICENSE.md). El acceso y uso de los plugins está restringido a usuarios con una clave válida. contacta con FrankV22 para recibir una Clave de uso. Sientete libre de ignorar este repositorio, ningun codigo aqui es publico, pero garantizamos seguridad, Al usar cualquier herramienta estas aceptando la Politica!
 
 ## Contacto
 
