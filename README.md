@@ -4,10 +4,10 @@
 
 Aquí tienes los plugins disponibles y sus guías de uso:
 
-- [Protection Stones](./GUIDE/ProtectionStones.md) - Protecciones de terreno Muy Funcionales
-- [Player Cosmetics](./GUIDE/PlayerCosmetics.md) - Descripción breve del plugin.
-- [Auto Register](./GUIDE/AutoRegister.md) - Descripción breve del plugin.
-- [EasyAutoBackup](./GUIDE/EasyAutoBackup.md) - Descripción breve del plugin.
+- [Protection Stones](./GUIDE/ProtectionStones.md) - Protecciones de terreno Muy Funcionales.
+- [Player Cosmetics](./GUIDE/PlayerCosmetics.md) - Sistema Potente de particulas sobre el Jugador.
+- [Auto Register](./GUIDE/AutoRegister.md) - Registro automatico de usuarios nuevos.
+- [EasyAutoBackup](./GUIDE/EasyAutoBackup.md) - Sistema potente y automatizado de Backups, muy funcional instalables etc.
 
 ## Instalación
 
