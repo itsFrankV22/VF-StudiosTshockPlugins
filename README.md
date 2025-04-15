@@ -5,7 +5,7 @@
 Aquí tienes los plugins disponibles y sus guías de uso:
 
 - [Protection Stones](./docs/GUIDE/ProtectionStones.md) - Protecciones de terreno Muy Funcionales
-- [Plugin 2](./docs/plugin2.md) - Descripción breve del plugin.
+- [Player Cosmetics](./docs/GUIDE/PlayerCosmetics.md) - Descripción breve del plugin.
 - [Plugin 3](./docs/plugin3.md) - Descripción breve del plugin.
 - [Plugin 4](./docs/plugin4.md) - Descripción breve del plugin.
 
@@ -18,7 +18,7 @@ Aquí tienes los plugins disponibles y sus guías de uso:
 
 ## Licencia
 
-Este proyecto está protegido por la [Licencia de Uso](./LICENSE.md). El acceso y uso de los plugins está restringido a usuarios con una clave válida.
+Este proyecto está protegido por la [Licencia de Uso](./LICENSE.md). El acceso y uso de los plugins está restringido a usuarios con una clave válida. contacta con FrankV22 para recibir una Clave de uso
 
 ## Contacto
 
