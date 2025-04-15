@@ -1,12 +1,10 @@
-# Plugins para TShock
-
-Bienvenido a **[Nombre del Repositorio]**. Aquí encontrarás una colección de plugins diseñados para mejorar la funcionalidad de TShock.
+# Plugins VF Studios
 
 ## Lista de Plugins
 
 Aquí tienes los plugins disponibles y sus guías de uso:
 
-- [Protection Stones](./docs/plugin1.md) - Protecciones de terreno Muy Funcionales
+- [Protection Stones](./docs/GUIDE/ProtectionStones.md) - Protecciones de terreno Muy Funcionales
 - [Plugin 2](./docs/plugin2.md) - Descripción breve del plugin.
 - [Plugin 3](./docs/plugin3.md) - Descripción breve del plugin.
 - [Plugin 4](./docs/plugin4.md) - Descripción breve del plugin.
