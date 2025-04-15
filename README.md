@@ -22,7 +22,7 @@ Este proyecto está protegido por la [Licencia de Uso](./LICENSE.md). El acceso 
 
 ## Contacto
 
-Para dudas o soporte, puedes abrir un **issue** en este repositorio o contactar a [Tu Nombre o Empresa].
+Para dudas o soporte, puedes abrir un **issue** en este repositorio o contactar a FrankV22.
 
 ---
 
