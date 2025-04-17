@@ -1,5 +1,8 @@
 # AutoRegister
 
+> [!NOTE]
+> If you speak English please visit [AutoRegisterEN](./GUIDE/AutoRegister_En.md)
+
 ## Descripción
 **AutoRegister** es un sistema que automatiza el proceso de registro de jugadores en TShock. Cuando un jugador nuevo se une al servidor, su cuenta se crea automáticamente y se le asigna una contraseña. Si el servidor tiene activado el inicio con UUID, la cuenta se vincula al UUID del jugador.
 
