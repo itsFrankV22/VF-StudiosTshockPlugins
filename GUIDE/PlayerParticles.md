@@ -1,5 +1,8 @@
 # PlayerParticles Plugin
 
+> [!NOTE]
+> If you speak English please visit [PlayerParticles_EN](./PlayerParticles_En.md)
+
 ## **Descripción General**
 
 `PlayerParticles` es un **plugin avanzado para TShock** que permite la generación de partículas específicas basadas en diversos eventos y acciones dentro del juego Terraria. Este plugin está diseñado para proporcionar efectos visuales dinámicos y personalizables que mejoran la experiencia del jugador. Cada tipo de evento (como unirse al servidor, morir, recibir daño, curarse, usar ítems o proyectiles) tiene configuraciones específicas que puedes ajustar a tu gusto.
