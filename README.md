@@ -1,5 +1,8 @@
 # Plugins VF Studios
 
+> [!NOTE]
+> If you speak English please visit [README_EN.md](.README_EN.md)
+
 ## Lista de Plugins
 
 Aquí tienes los plugins disponibles y sus guías de uso:
@@ -8,6 +11,7 @@ Aquí tienes los plugins disponibles y sus guías de uso:
 - [Player Cosmetics](./GUIDE/PlayerCosmetics.md) - Sistema Potente de particulas sobre el Jugador.
 - [Auto Register](./GUIDE/AutoRegister.md) - Registro automatico de usuarios nuevos.
 - [EasyAutoBackup](./GUIDE/EasyAutoBackup.md) - Sistema potente y automatizado de Backups, muy funcional instalables etc.
+- [PlayerParticles](./GUIDE/PlayerParticles.md) - Muy buen sistema de Particulas y Visuales, altamente configurable (Hecho completamente de cero)
 - *Vuelve Pronto para mas!*
 
 ## Instalación
