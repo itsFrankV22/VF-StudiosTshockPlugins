@@ -1,7 +1,7 @@
 # Plugins VF Studios
 
 > [!NOTE]
-> If you speak English please visit [README_EN.md](.README_EN.md)
+> If you speak English please visit [README_EN.md](./README_EN.md)
 
 ## Lista de Plugins
 
