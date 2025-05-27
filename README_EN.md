@@ -9,6 +9,7 @@ Here are the available plugins and their usage guides:
 - [Auto Register](./GUIDE/AutoRegister.md) - Automatic registration for new users.
 - [EasyAutoBackup](./GUIDE/EasyAutoBackup.md) - Powerful and automated backup system, highly functional and easy to install.
 - [PlayerParticles](./GUIDE/PlayerParticles_En.md) - A great system for particles and visuals, highly configurable (built entirely from scratch).
+- [LIVEMAP_TumundoPNG](https://github.com/itsFrankV22/tShock-LiveMap_MapPNG) - Export you world to png
 - *Come back soon for more!*
 
 ## Installation
